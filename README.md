@@ -19,6 +19,6 @@ All data is stored efficiently using **hash maps**, and the project is built ent
 ## How to Run  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/username/LibrarySystem.git
-   cd LibrarySystem
+   git clone https://github.com/MaryamAbdelhady1/Library_mangment_system_project.git
+   cd Library_mangment_system_project
 ``` 
